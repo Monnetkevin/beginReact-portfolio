@@ -1,4 +1,4 @@
-# Portfolio - Final exercise
+# Portfolio . Final exercise
 
 Workshop final pour crée son portfolio.
 
